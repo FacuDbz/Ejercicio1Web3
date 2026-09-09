@@ -1271,3 +1271,15 @@ h2 {
     padding-bottom: 10px;
 }
 }
+.newsletter__message {
+    margin-top: 10px;
+    font-size: 14px;
+}
+
+.newsletter__message.success {
+    color: #8cff9b;
+}
+
+.newsletter__message.error {
+    color: #ff8c8c;
+}
